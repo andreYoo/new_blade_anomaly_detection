@@ -1,0 +1,1449 @@
+2021-06-04 13:55:05,192 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_13:55:05
+2021-06-04 13:55:05,212 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 13:55:05,212 - root - INFO - Log file is ./log/210604_13:55:05
+2021-06-04 13:55:05,212 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 13:55:05,212 - root - INFO - Export path is ./log
+2021-06-04 13:55:21,764 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_13:55:21
+2021-06-04 13:55:21,784 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 13:55:21,784 - root - INFO - Log file is ./log/210604_13:55:21
+2021-06-04 13:55:21,784 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 13:55:21,784 - root - INFO - Export path is ./log
+2021-06-04 13:55:21,812 - root - INFO - Computation device: cuda
+2021-06-04 13:55:21,812 - root - INFO - Number of dataloader workers: 0
+2021-06-04 13:55:58,854 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_13:55:58
+2021-06-04 13:55:58,875 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 13:55:58,875 - root - INFO - Log file is ./log/210604_13:55:58
+2021-06-04 13:55:58,875 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 13:55:58,875 - root - INFO - Export path is ./log
+2021-06-04 13:55:58,901 - root - INFO - Computation device: cuda
+2021-06-04 13:55:58,901 - root - INFO - Number of dataloader workers: 0
+2021-06-04 13:56:17,095 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_13:56:17
+2021-06-04 13:56:17,097 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 13:56:17,097 - root - INFO - Log file is ./log/210604_13:56:17
+2021-06-04 13:56:17,097 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 13:56:17,097 - root - INFO - Export path is ./log
+2021-06-04 13:56:17,144 - root - INFO - Computation device: cuda
+2021-06-04 13:56:17,144 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:00:31,093 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:00:31
+2021-06-04 14:00:31,094 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:00:31,094 - root - INFO - Log file is ./log/210604_14:00:31
+2021-06-04 14:00:31,094 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:00:31,095 - root - INFO - Export path is ./log
+2021-06-04 14:00:31,152 - root - INFO - Computation device: cuda
+2021-06-04 14:00:31,152 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:03:58,071 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:03:58
+2021-06-04 14:03:58,072 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:03:58,073 - root - INFO - Log file is ./log/210604_14:03:58
+2021-06-04 14:03:58,073 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:03:58,073 - root - INFO - Export path is ./log
+2021-06-04 14:03:58,130 - root - INFO - Computation device: cuda
+2021-06-04 14:03:58,130 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:20:11,797 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:20:11
+2021-06-04 14:20:11,798 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:20:11,798 - root - INFO - Log file is ./log/210604_14:20:11
+2021-06-04 14:20:11,798 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:20:11,798 - root - INFO - Export path is ./log
+2021-06-04 14:20:11,856 - root - INFO - Computation device: cuda
+2021-06-04 14:20:11,856 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:20:29,628 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:20:29
+2021-06-04 14:20:29,629 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:20:29,629 - root - INFO - Log file is ./log/210604_14:20:29
+2021-06-04 14:20:29,629 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:20:29,630 - root - INFO - Export path is ./log
+2021-06-04 14:20:29,688 - root - INFO - Computation device: cuda
+2021-06-04 14:20:29,688 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:26:01,817 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:26:01
+2021-06-04 14:26:01,819 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:26:01,819 - root - INFO - Log file is ./log/210604_14:26:01
+2021-06-04 14:26:01,819 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:26:01,819 - root - INFO - Export path is ./log
+2021-06-04 14:26:01,864 - root - INFO - Computation device: cuda
+2021-06-04 14:26:01,864 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:26:51,057 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:26:51
+2021-06-04 14:26:51,058 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:26:51,058 - root - INFO - Log file is ./log/210604_14:26:51
+2021-06-04 14:26:51,059 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:26:51,059 - root - INFO - Export path is ./log
+2021-06-04 14:26:51,116 - root - INFO - Computation device: cuda
+2021-06-04 14:26:51,116 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:27:14,671 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:27:14
+2021-06-04 14:27:14,673 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:27:14,673 - root - INFO - Log file is ./log/210604_14:27:14
+2021-06-04 14:27:14,673 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:27:14,674 - root - INFO - Export path is ./log
+2021-06-04 14:27:14,732 - root - INFO - Computation device: cuda
+2021-06-04 14:27:14,733 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:27:22,335 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:27:22,482 - root - INFO - Training optimizer: adam
+2021-06-04 14:27:22,629 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:27:22,763 - root - INFO - Training epochs: 100
+2021-06-04 14:27:22,889 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:27:23,025 - root - INFO - Training batch size: 128
+2021-06-04 14:27:23,214 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:27:35,935 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:27:35
+2021-06-04 14:27:35,936 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:27:35,936 - root - INFO - Log file is ./log/210604_14:27:35
+2021-06-04 14:27:35,936 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:27:35,936 - root - INFO - Export path is ./log
+2021-06-04 14:27:35,985 - root - INFO - Computation device: cuda
+2021-06-04 14:27:35,985 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:27:35,997 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:27:35,997 - root - INFO - Training optimizer: adam
+2021-06-04 14:27:35,997 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:27:35,997 - root - INFO - Training epochs: 100
+2021-06-04 14:27:35,997 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:27:35,997 - root - INFO - Training batch size: 128
+2021-06-04 14:27:35,997 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:27:59,986 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:27:59
+2021-06-04 14:27:59,988 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:27:59,988 - root - INFO - Log file is ./log/210604_14:27:59
+2021-06-04 14:27:59,988 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:27:59,988 - root - INFO - Export path is ./log
+2021-06-04 14:28:00,049 - root - INFO - Computation device: cuda
+2021-06-04 14:28:00,049 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:28:00,061 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:28:00,061 - root - INFO - Training optimizer: adam
+2021-06-04 14:28:00,061 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:28:00,061 - root - INFO - Training epochs: 100
+2021-06-04 14:28:00,062 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:28:00,062 - root - INFO - Training batch size: 128
+2021-06-04 14:28:00,062 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:30:05,964 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:30:05
+2021-06-04 14:30:05,966 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:30:05,966 - root - INFO - Log file is ./log/210604_14:30:05
+2021-06-04 14:30:05,966 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:30:05,966 - root - INFO - Export path is ./log
+2021-06-04 14:30:06,024 - root - INFO - Computation device: cuda
+2021-06-04 14:30:06,024 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:30:06,036 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:30:06,036 - root - INFO - Training optimizer: adam
+2021-06-04 14:30:06,036 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:30:06,036 - root - INFO - Training epochs: 100
+2021-06-04 14:30:06,036 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:30:06,037 - root - INFO - Training batch size: 128
+2021-06-04 14:30:06,037 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:37:08,945 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:37:08
+2021-06-04 14:37:08,947 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:37:08,947 - root - INFO - Log file is ./log/210604_14:37:08
+2021-06-04 14:37:08,947 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:37:08,947 - root - INFO - Export path is ./log
+2021-06-04 14:37:09,001 - root - INFO - Computation device: cuda
+2021-06-04 14:37:09,002 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:41:31,873 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:41:31
+2021-06-04 14:41:31,875 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:41:31,875 - root - INFO - Log file is ./log/210604_14:41:31
+2021-06-04 14:41:31,875 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:41:31,875 - root - INFO - Export path is ./log
+2021-06-04 14:41:31,920 - root - INFO - Computation device: cuda
+2021-06-04 14:41:31,921 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:41:56,942 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:41:56
+2021-06-04 14:41:56,943 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:41:56,943 - root - INFO - Log file is ./log/210604_14:41:56
+2021-06-04 14:41:56,943 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:41:56,943 - root - INFO - Export path is ./log
+2021-06-04 14:41:56,995 - root - INFO - Computation device: cuda
+2021-06-04 14:41:56,996 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:42:25,815 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:42:26,023 - root - INFO - Training optimizer: adam
+2021-06-04 14:42:26,170 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:42:26,306 - root - INFO - Training epochs: 100
+2021-06-04 14:42:26,432 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:42:26,578 - root - INFO - Training batch size: 128
+2021-06-04 14:42:26,972 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:43:18,177 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:43:18
+2021-06-04 14:43:18,178 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:43:18,178 - root - INFO - Log file is ./log/210604_14:43:18
+2021-06-04 14:43:18,178 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:43:18,179 - root - INFO - Export path is ./log
+2021-06-04 14:43:18,237 - root - INFO - Computation device: cuda
+2021-06-04 14:43:18,237 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:43:23,576 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:43:23,577 - root - INFO - Training optimizer: adam
+2021-06-04 14:43:23,577 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:43:23,577 - root - INFO - Training epochs: 100
+2021-06-04 14:43:23,577 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:43:23,577 - root - INFO - Training batch size: 128
+2021-06-04 14:43:23,577 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:43:47,228 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:43:47
+2021-06-04 14:43:47,230 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:43:47,230 - root - INFO - Log file is ./log/210604_14:43:47
+2021-06-04 14:43:47,230 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:43:47,230 - root - INFO - Export path is ./log
+2021-06-04 14:43:47,274 - root - INFO - Computation device: cuda
+2021-06-04 14:43:47,274 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:43:47,285 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:43:47,285 - root - INFO - Training optimizer: adam
+2021-06-04 14:43:47,285 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:43:47,286 - root - INFO - Training epochs: 100
+2021-06-04 14:43:47,286 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:43:47,286 - root - INFO - Training batch size: 128
+2021-06-04 14:43:47,286 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:43:57,108 - root - INFO - Starting training...
+2021-06-04 14:44:35,965 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:44:35
+2021-06-04 14:44:35,967 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:44:35,967 - root - INFO - Log file is ./log/210604_14:44:35
+2021-06-04 14:44:35,967 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:44:35,967 - root - INFO - Export path is ./log
+2021-06-04 14:44:36,013 - root - INFO - Computation device: cuda
+2021-06-04 14:44:36,013 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:44:36,025 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:44:36,025 - root - INFO - Training optimizer: adam
+2021-06-04 14:44:36,025 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:44:36,025 - root - INFO - Training epochs: 100
+2021-06-04 14:44:36,025 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:44:36,025 - root - INFO - Training batch size: 128
+2021-06-04 14:44:36,025 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:44:40,036 - root - INFO - Starting training...
+2021-06-04 14:46:42,189 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:46:42
+2021-06-04 14:46:42,190 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:46:42,191 - root - INFO - Log file is ./log/210604_14:46:42
+2021-06-04 14:46:42,191 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:46:42,191 - root - INFO - Export path is ./log
+2021-06-04 14:46:42,237 - root - INFO - Computation device: cuda
+2021-06-04 14:46:42,237 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:46:42,248 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:46:42,248 - root - INFO - Training optimizer: adam
+2021-06-04 14:46:42,248 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:46:42,249 - root - INFO - Training epochs: 100
+2021-06-04 14:46:42,249 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:46:42,249 - root - INFO - Training batch size: 128
+2021-06-04 14:46:42,249 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:46:45,748 - root - INFO - Starting training...
+2021-06-04 14:47:09,542 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:47:09
+2021-06-04 14:47:09,544 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:47:09,544 - root - INFO - Log file is ./log/210604_14:47:09
+2021-06-04 14:47:09,544 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:47:09,545 - root - INFO - Export path is ./log
+2021-06-04 14:47:09,599 - root - INFO - Computation device: cuda
+2021-06-04 14:47:09,600 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:47:09,611 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:47:09,611 - root - INFO - Training optimizer: adam
+2021-06-04 14:47:09,611 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:47:09,611 - root - INFO - Training epochs: 100
+2021-06-04 14:47:09,611 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:47:09,612 - root - INFO - Training batch size: 6
+2021-06-04 14:47:09,612 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:47:12,684 - root - INFO - Starting training...
+2021-06-04 14:47:34,477 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:47:34
+2021-06-04 14:47:34,478 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:47:34,478 - root - INFO - Log file is ./log/210604_14:47:34
+2021-06-04 14:47:34,478 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:47:34,478 - root - INFO - Export path is ./log
+2021-06-04 14:47:34,532 - root - INFO - Computation device: cuda
+2021-06-04 14:47:34,532 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:47:34,544 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:47:34,544 - root - INFO - Training optimizer: adam
+2021-06-04 14:47:34,544 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:47:34,544 - root - INFO - Training epochs: 100
+2021-06-04 14:47:34,545 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:47:34,545 - root - INFO - Training batch size: 6
+2021-06-04 14:47:34,545 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:48:06,375 - root - INFO - Starting training...
+2021-06-04 14:48:23,299 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:48:23
+2021-06-04 14:48:23,301 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:48:23,301 - root - INFO - Log file is ./log/210604_14:48:23
+2021-06-04 14:48:23,301 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:48:23,301 - root - INFO - Export path is ./log
+2021-06-04 14:48:23,356 - root - INFO - Computation device: cuda
+2021-06-04 14:48:23,356 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:48:23,368 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:48:23,368 - root - INFO - Training optimizer: adam
+2021-06-04 14:48:23,368 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:48:23,368 - root - INFO - Training epochs: 100
+2021-06-04 14:48:23,368 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:48:23,368 - root - INFO - Training batch size: 6
+2021-06-04 14:48:23,368 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:48:27,838 - root - INFO - Starting training...
+2021-06-04 14:50:56,078 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:50:56
+2021-06-04 14:50:56,079 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:50:56,079 - root - INFO - Log file is ./log/210604_14:50:56
+2021-06-04 14:50:56,080 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:50:56,080 - root - INFO - Export path is ./log
+2021-06-04 14:50:56,128 - root - INFO - Computation device: cuda
+2021-06-04 14:50:56,128 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:50:56,139 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:50:56,139 - root - INFO - Training optimizer: adam
+2021-06-04 14:50:56,140 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:50:56,140 - root - INFO - Training epochs: 100
+2021-06-04 14:50:56,140 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:50:56,140 - root - INFO - Training batch size: 6
+2021-06-04 14:50:56,140 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:51:01,823 - root - INFO - Starting training...
+2021-06-04 14:52:03,843 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:52:03
+2021-06-04 14:52:03,845 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:52:03,845 - root - INFO - Log file is ./log/210604_14:52:03
+2021-06-04 14:52:03,845 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:52:03,845 - root - INFO - Export path is ./log
+2021-06-04 14:52:03,903 - root - INFO - Computation device: cuda
+2021-06-04 14:52:03,903 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:54:08,402 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:54:08
+2021-06-04 14:54:08,404 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:54:08,404 - root - INFO - Log file is ./log/210604_14:54:08
+2021-06-04 14:54:08,404 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:54:08,404 - root - INFO - Export path is ./log
+2021-06-04 14:54:08,450 - root - INFO - Computation device: cuda
+2021-06-04 14:54:08,450 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:54:35,854 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:54:35
+2021-06-04 14:54:35,856 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:54:35,856 - root - INFO - Log file is ./log/210604_14:54:35
+2021-06-04 14:54:35,856 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:54:35,856 - root - INFO - Export path is ./log
+2021-06-04 14:54:35,922 - root - INFO - Computation device: cuda
+2021-06-04 14:54:35,922 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:54:35,934 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:54:35,934 - root - INFO - Training optimizer: adam
+2021-06-04 14:54:35,934 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:54:35,934 - root - INFO - Training epochs: 100
+2021-06-04 14:54:35,934 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:54:35,934 - root - INFO - Training batch size: 6
+2021-06-04 14:54:35,935 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:54:40,895 - root - INFO - Starting training...
+2021-06-04 14:54:52,802 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:54:52
+2021-06-04 14:54:52,803 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:54:52,804 - root - INFO - Log file is ./log/210604_14:54:52
+2021-06-04 14:54:52,804 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:54:52,804 - root - INFO - Export path is ./log
+2021-06-04 14:54:52,861 - root - INFO - Computation device: cuda
+2021-06-04 14:54:52,861 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:54:52,879 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:54:52,879 - root - INFO - Training optimizer: adam
+2021-06-04 14:54:52,879 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:54:52,879 - root - INFO - Training epochs: 100
+2021-06-04 14:54:52,879 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:54:52,879 - root - INFO - Training batch size: 6
+2021-06-04 14:54:52,879 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:54:56,599 - root - INFO - Starting training...
+2021-06-04 14:59:00,964 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:59:00
+2021-06-04 14:59:00,966 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:59:00,966 - root - INFO - Log file is ./log/210604_14:59:00
+2021-06-04 14:59:00,966 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:59:00,967 - root - INFO - Export path is ./log
+2021-06-04 14:59:01,019 - root - INFO - Computation device: cuda
+2021-06-04 14:59:01,019 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:59:01,030 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:59:01,030 - root - INFO - Training optimizer: adam
+2021-06-04 14:59:01,030 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:59:01,030 - root - INFO - Training epochs: 100
+2021-06-04 14:59:01,030 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:59:01,031 - root - INFO - Training batch size: 6
+2021-06-04 14:59:01,031 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:59:05,425 - root - INFO - Starting training...
+2021-06-04 14:59:16,469 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:59:16
+2021-06-04 14:59:16,471 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:59:16,471 - root - INFO - Log file is ./log/210604_14:59:16
+2021-06-04 14:59:16,471 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:59:16,471 - root - INFO - Export path is ./log
+2021-06-04 14:59:16,517 - root - INFO - Computation device: cuda
+2021-06-04 14:59:16,517 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:59:16,528 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:59:16,528 - root - INFO - Training optimizer: adam
+2021-06-04 14:59:16,528 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:59:16,529 - root - INFO - Training epochs: 100
+2021-06-04 14:59:16,529 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:59:16,529 - root - INFO - Training batch size: 6
+2021-06-04 14:59:16,529 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:59:38,734 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:59:38
+2021-06-04 14:59:38,735 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:59:38,736 - root - INFO - Log file is ./log/210604_14:59:38
+2021-06-04 14:59:38,736 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:59:38,736 - root - INFO - Export path is ./log
+2021-06-04 14:59:38,786 - root - INFO - Computation device: cuda
+2021-06-04 14:59:38,787 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:59:38,799 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:59:38,799 - root - INFO - Training optimizer: adam
+2021-06-04 14:59:38,800 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:59:38,800 - root - INFO - Training epochs: 100
+2021-06-04 14:59:38,800 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:59:38,800 - root - INFO - Training batch size: 6
+2021-06-04 14:59:38,800 - root - INFO - Training weight decay: 1e-06
+2021-06-04 14:59:41,869 - root - INFO - Starting training...
+2021-06-04 14:59:58,571 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_14:59:58
+2021-06-04 14:59:58,573 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 14:59:58,573 - root - INFO - Log file is ./log/210604_14:59:58
+2021-06-04 14:59:58,573 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 14:59:58,573 - root - INFO - Export path is ./log
+2021-06-04 14:59:58,630 - root - INFO - Computation device: cuda
+2021-06-04 14:59:58,630 - root - INFO - Number of dataloader workers: 0
+2021-06-04 14:59:58,642 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 14:59:58,642 - root - INFO - Training optimizer: adam
+2021-06-04 14:59:58,642 - root - INFO - Training learning rate: 0.001
+2021-06-04 14:59:58,642 - root - INFO - Training epochs: 100
+2021-06-04 14:59:58,642 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 14:59:58,642 - root - INFO - Training batch size: 6
+2021-06-04 14:59:58,643 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:00:02,871 - root - INFO - Starting training...
+2021-06-04 15:00:24,624 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:00:24
+2021-06-04 15:00:24,626 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:00:24,626 - root - INFO - Log file is ./log/210604_15:00:24
+2021-06-04 15:00:24,626 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:00:24,626 - root - INFO - Export path is ./log
+2021-06-04 15:00:24,680 - root - INFO - Computation device: cuda
+2021-06-04 15:00:24,680 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:00:24,692 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:00:24,692 - root - INFO - Training optimizer: adam
+2021-06-04 15:00:24,692 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:00:24,693 - root - INFO - Training epochs: 100
+2021-06-04 15:00:24,693 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:00:24,693 - root - INFO - Training batch size: 6
+2021-06-04 15:00:24,693 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:02:39,094 - root - INFO - Starting training...
+2021-06-04 15:03:07,271 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:03:07
+2021-06-04 15:03:07,273 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:03:07,273 - root - INFO - Log file is ./log/210604_15:03:07
+2021-06-04 15:03:07,273 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:03:07,273 - root - INFO - Export path is ./log
+2021-06-04 15:03:07,320 - root - INFO - Computation device: cuda
+2021-06-04 15:03:07,320 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:03:07,333 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:03:07,333 - root - INFO - Training optimizer: adam
+2021-06-04 15:03:07,333 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:03:07,333 - root - INFO - Training epochs: 100
+2021-06-04 15:03:07,333 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:03:07,333 - root - INFO - Training batch size: 6
+2021-06-04 15:03:07,334 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:03:12,061 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:03:12
+2021-06-04 15:03:12,063 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:03:12,063 - root - INFO - Log file is ./log/210604_15:03:12
+2021-06-04 15:03:12,063 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:03:12,064 - root - INFO - Export path is ./log
+2021-06-04 15:03:12,108 - root - INFO - Computation device: cuda
+2021-06-04 15:03:12,108 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:03:12,121 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:03:12,121 - root - INFO - Training optimizer: adam
+2021-06-04 15:03:12,121 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:03:12,121 - root - INFO - Training epochs: 100
+2021-06-04 15:03:12,121 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:03:12,121 - root - INFO - Training batch size: 6
+2021-06-04 15:03:12,121 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:03:16,234 - root - INFO - Starting training...
+2021-06-04 15:03:22,914 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:03:22
+2021-06-04 15:03:22,915 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:03:22,915 - root - INFO - Log file is ./log/210604_15:03:22
+2021-06-04 15:03:22,915 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:03:22,915 - root - INFO - Export path is ./log
+2021-06-04 15:03:22,959 - root - INFO - Computation device: cuda
+2021-06-04 15:03:22,960 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:03:22,972 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:03:22,972 - root - INFO - Training optimizer: adam
+2021-06-04 15:03:22,972 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:03:22,972 - root - INFO - Training epochs: 100
+2021-06-04 15:03:22,973 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:03:22,973 - root - INFO - Training batch size: 6
+2021-06-04 15:03:22,973 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:04:01,987 - root - INFO - Starting training...
+2021-06-04 15:04:45,428 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:04:45
+2021-06-04 15:04:45,429 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:04:45,430 - root - INFO - Log file is ./log/210604_15:04:45
+2021-06-04 15:04:45,430 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:04:45,430 - root - INFO - Export path is ./log
+2021-06-04 15:04:45,476 - root - INFO - Computation device: cuda
+2021-06-04 15:04:45,476 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:04:45,488 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:04:45,488 - root - INFO - Training optimizer: adam
+2021-06-04 15:04:45,489 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:04:45,489 - root - INFO - Training epochs: 100
+2021-06-04 15:04:45,489 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:04:45,489 - root - INFO - Training batch size: 6
+2021-06-04 15:04:45,489 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:04:51,610 - root - INFO - Starting training...
+2021-06-04 15:07:31,643 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:07:31
+2021-06-04 15:07:31,645 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:07:31,645 - root - INFO - Log file is ./log/210604_15:07:31
+2021-06-04 15:07:31,645 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:07:31,646 - root - INFO - Export path is ./log
+2021-06-04 15:07:31,693 - root - INFO - Computation device: cuda
+2021-06-04 15:07:31,693 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:07:31,705 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:07:31,705 - root - INFO - Training optimizer: adam
+2021-06-04 15:07:31,705 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:07:31,705 - root - INFO - Training epochs: 100
+2021-06-04 15:07:31,706 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:07:31,706 - root - INFO - Training batch size: 6
+2021-06-04 15:07:31,706 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:07:33,055 - root - INFO - Starting training...
+2021-06-04 15:09:12,067 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:09:12
+2021-06-04 15:09:12,068 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:09:12,069 - root - INFO - Log file is ./log/210604_15:09:12
+2021-06-04 15:09:12,069 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:09:12,069 - root - INFO - Export path is ./log
+2021-06-04 15:09:12,124 - root - INFO - Computation device: cuda
+2021-06-04 15:09:12,124 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:09:12,136 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:09:12,136 - root - INFO - Training optimizer: adam
+2021-06-04 15:09:12,136 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:09:12,136 - root - INFO - Training epochs: 100
+2021-06-04 15:09:12,136 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:09:12,137 - root - INFO - Training batch size: 6
+2021-06-04 15:09:12,137 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:09:13,474 - root - INFO - Starting training...
+2021-06-04 15:09:41,278 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:09:41
+2021-06-04 15:09:41,279 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:09:41,279 - root - INFO - Log file is ./log/210604_15:09:41
+2021-06-04 15:09:41,279 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:09:41,280 - root - INFO - Export path is ./log
+2021-06-04 15:09:41,334 - root - INFO - Computation device: cuda
+2021-06-04 15:09:41,334 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:09:41,346 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:09:41,346 - root - INFO - Training optimizer: adam
+2021-06-04 15:09:41,346 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:09:41,346 - root - INFO - Training epochs: 100
+2021-06-04 15:09:41,346 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:09:41,346 - root - INFO - Training batch size: 6
+2021-06-04 15:09:41,346 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:09:42,668 - root - INFO - Starting training...
+2021-06-04 15:10:15,541 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:10:15
+2021-06-04 15:10:15,543 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:10:15,543 - root - INFO - Log file is ./log/210604_15:10:15
+2021-06-04 15:10:15,543 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:10:15,543 - root - INFO - Export path is ./log
+2021-06-04 15:10:15,588 - root - INFO - Computation device: cuda
+2021-06-04 15:10:15,589 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:10:15,601 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:10:15,602 - root - INFO - Training optimizer: adam
+2021-06-04 15:10:15,602 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:10:15,602 - root - INFO - Training epochs: 100
+2021-06-04 15:10:15,602 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:10:15,602 - root - INFO - Training batch size: 6
+2021-06-04 15:10:15,602 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:10:16,965 - root - INFO - Starting training...
+2021-06-04 15:10:49,252 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:10:49
+2021-06-04 15:10:49,253 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:10:49,254 - root - INFO - Log file is ./log/210604_15:10:49
+2021-06-04 15:10:49,254 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:10:49,254 - root - INFO - Export path is ./log
+2021-06-04 15:10:49,311 - root - INFO - Computation device: cuda
+2021-06-04 15:10:49,311 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:10:49,324 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:10:49,324 - root - INFO - Training optimizer: adam
+2021-06-04 15:10:49,324 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:10:49,324 - root - INFO - Training epochs: 100
+2021-06-04 15:10:49,324 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:10:49,324 - root - INFO - Training batch size: 6
+2021-06-04 15:10:49,324 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:10:50,666 - root - INFO - Starting training...
+2021-06-04 15:11:22,253 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:11:22
+2021-06-04 15:11:22,255 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:11:22,255 - root - INFO - Log file is ./log/210604_15:11:22
+2021-06-04 15:11:22,255 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:11:22,255 - root - INFO - Export path is ./log
+2021-06-04 15:11:22,307 - root - INFO - Computation device: cuda
+2021-06-04 15:11:22,308 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:11:22,320 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:11:22,320 - root - INFO - Training optimizer: adam
+2021-06-04 15:11:22,320 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:11:22,320 - root - INFO - Training epochs: 100
+2021-06-04 15:11:22,320 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:11:22,320 - root - INFO - Training batch size: 6
+2021-06-04 15:11:22,321 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:11:23,653 - root - INFO - Starting training...
+2021-06-04 15:13:25,765 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:13:25
+2021-06-04 15:13:25,766 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:13:25,767 - root - INFO - Log file is ./log/210604_15:13:25
+2021-06-04 15:13:25,767 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:13:25,767 - root - INFO - Export path is ./log
+2021-06-04 15:13:25,810 - root - INFO - Computation device: cuda
+2021-06-04 15:13:25,810 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:13:25,829 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:13:25,830 - root - INFO - Training optimizer: adam
+2021-06-04 15:13:25,830 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:13:25,830 - root - INFO - Training epochs: 100
+2021-06-04 15:13:25,830 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:13:25,830 - root - INFO - Training batch size: 6
+2021-06-04 15:13:25,830 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:13:27,144 - root - INFO - Starting training...
+2021-06-04 15:14:07,575 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:14:07
+2021-06-04 15:14:07,577 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:14:07,577 - root - INFO - Log file is ./log/210604_15:14:07
+2021-06-04 15:14:07,577 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:14:07,578 - root - INFO - Export path is ./log
+2021-06-04 15:14:07,634 - root - INFO - Computation device: cuda
+2021-06-04 15:14:07,634 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:14:07,653 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:14:07,654 - root - INFO - Training optimizer: adam
+2021-06-04 15:14:07,654 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:14:07,654 - root - INFO - Training epochs: 100
+2021-06-04 15:14:07,654 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:14:07,654 - root - INFO - Training batch size: 6
+2021-06-04 15:14:07,654 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:14:08,970 - root - INFO - Starting training...
+2021-06-04 15:15:46,052 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:15:46
+2021-06-04 15:15:46,054 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:15:46,054 - root - INFO - Log file is ./log/210604_15:15:46
+2021-06-04 15:15:46,054 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:15:46,054 - root - INFO - Export path is ./log
+2021-06-04 15:15:46,098 - root - INFO - Computation device: cuda
+2021-06-04 15:15:46,098 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:15:46,118 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:15:46,118 - root - INFO - Training optimizer: adam
+2021-06-04 15:15:46,118 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:15:46,118 - root - INFO - Training epochs: 100
+2021-06-04 15:15:46,118 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:15:46,118 - root - INFO - Training batch size: 6
+2021-06-04 15:15:46,118 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:15:47,435 - root - INFO - Starting training...
+2021-06-04 15:22:47,795 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:22:47
+2021-06-04 15:22:47,796 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:22:47,797 - root - INFO - Log file is ./log/210604_15:22:47
+2021-06-04 15:22:47,797 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:22:47,797 - root - INFO - Export path is ./log
+2021-06-04 15:22:47,855 - root - INFO - Computation device: cuda
+2021-06-04 15:22:47,855 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:22:47,899 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:22:47,899 - root - INFO - Training optimizer: adam
+2021-06-04 15:22:47,899 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:22:47,899 - root - INFO - Training epochs: 100
+2021-06-04 15:22:47,899 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:22:47,900 - root - INFO - Training batch size: 6
+2021-06-04 15:22:47,900 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:22:49,215 - root - INFO - Starting training...
+2021-06-04 15:23:48,018 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:23:48
+2021-06-04 15:23:48,019 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:23:48,019 - root - INFO - Log file is ./log/210604_15:23:48
+2021-06-04 15:23:48,019 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:23:48,020 - root - INFO - Export path is ./log
+2021-06-04 15:23:48,072 - root - INFO - Computation device: cuda
+2021-06-04 15:23:48,072 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:23:48,114 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:23:48,114 - root - INFO - Training optimizer: adam
+2021-06-04 15:23:48,114 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:23:48,115 - root - INFO - Training epochs: 100
+2021-06-04 15:23:48,115 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:23:48,115 - root - INFO - Training batch size: 6
+2021-06-04 15:23:48,115 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:23:49,453 - root - INFO - Starting training...
+2021-06-04 15:25:43,610 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:25:43
+2021-06-04 15:25:43,611 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:25:43,611 - root - INFO - Log file is ./log/210604_15:25:43
+2021-06-04 15:25:43,612 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:25:43,612 - root - INFO - Export path is ./log
+2021-06-04 15:25:43,665 - root - INFO - Computation device: cuda
+2021-06-04 15:25:43,665 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:25:43,708 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:25:43,708 - root - INFO - Training optimizer: adam
+2021-06-04 15:25:43,708 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:25:43,708 - root - INFO - Training epochs: 100
+2021-06-04 15:25:43,708 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:25:43,708 - root - INFO - Training batch size: 6
+2021-06-04 15:25:43,708 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:25:45,086 - root - INFO - Starting training...
+2021-06-04 15:26:51,399 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:26:51
+2021-06-04 15:26:51,401 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:26:51,401 - root - INFO - Log file is ./log/210604_15:26:51
+2021-06-04 15:26:51,401 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:26:51,401 - root - INFO - Export path is ./log
+2021-06-04 15:26:51,446 - root - INFO - Computation device: cuda
+2021-06-04 15:26:51,446 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:26:51,489 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:26:51,489 - root - INFO - Training optimizer: adam
+2021-06-04 15:26:51,489 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:26:51,489 - root - INFO - Training epochs: 100
+2021-06-04 15:26:51,489 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:26:51,489 - root - INFO - Training batch size: 6
+2021-06-04 15:26:51,489 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:26:52,828 - root - INFO - Starting training...
+2021-06-04 15:27:04,698 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:27:04
+2021-06-04 15:27:04,700 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:27:04,700 - root - INFO - Log file is ./log/210604_15:27:04
+2021-06-04 15:27:04,700 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:27:04,701 - root - INFO - Export path is ./log
+2021-06-04 15:27:04,748 - root - INFO - Computation device: cuda
+2021-06-04 15:27:04,748 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:27:04,790 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:27:04,790 - root - INFO - Training optimizer: adam
+2021-06-04 15:27:04,790 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:27:04,790 - root - INFO - Training epochs: 100
+2021-06-04 15:27:04,790 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:27:04,791 - root - INFO - Training batch size: 6
+2021-06-04 15:27:04,791 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:27:06,125 - root - INFO - Starting training...
+2021-06-04 15:28:29,933 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:28:29
+2021-06-04 15:28:29,935 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:28:29,935 - root - INFO - Log file is ./log/210604_15:28:29
+2021-06-04 15:28:29,935 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:28:29,935 - root - INFO - Export path is ./log
+2021-06-04 15:28:29,986 - root - INFO - Computation device: cuda
+2021-06-04 15:28:29,986 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:28:30,029 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:28:30,029 - root - INFO - Training optimizer: adam
+2021-06-04 15:28:30,029 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:28:30,029 - root - INFO - Training epochs: 100
+2021-06-04 15:28:30,029 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:28:30,029 - root - INFO - Training batch size: 6
+2021-06-04 15:28:30,029 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:28:31,387 - root - INFO - Starting training...
+2021-06-04 15:29:19,576 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:29:19
+2021-06-04 15:29:19,577 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:29:19,577 - root - INFO - Log file is ./log/210604_15:29:19
+2021-06-04 15:29:19,577 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:29:19,577 - root - INFO - Export path is ./log
+2021-06-04 15:29:19,644 - root - INFO - Computation device: cuda
+2021-06-04 15:29:19,645 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:29:19,696 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:29:19,697 - root - INFO - Training optimizer: adam
+2021-06-04 15:29:19,697 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:29:19,697 - root - INFO - Training epochs: 100
+2021-06-04 15:29:19,697 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:29:19,697 - root - INFO - Training batch size: 6
+2021-06-04 15:29:19,697 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:29:21,021 - root - INFO - Starting training...
+2021-06-04 15:30:13,490 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:30:13
+2021-06-04 15:30:13,491 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:30:13,491 - root - INFO - Log file is ./log/210604_15:30:13
+2021-06-04 15:30:13,492 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:30:13,492 - root - INFO - Export path is ./log
+2021-06-04 15:30:13,533 - root - INFO - Computation device: cuda
+2021-06-04 15:30:13,534 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:30:13,577 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:30:13,577 - root - INFO - Training optimizer: adam
+2021-06-04 15:30:13,577 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:30:13,577 - root - INFO - Training epochs: 100
+2021-06-04 15:30:13,577 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:30:13,578 - root - INFO - Training batch size: 6
+2021-06-04 15:30:13,578 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:30:14,912 - root - INFO - Starting training...
+2021-06-04 15:36:14,231 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:36:14
+2021-06-04 15:36:14,233 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:36:14,233 - root - INFO - Log file is ./log/210604_15:36:14
+2021-06-04 15:36:14,233 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:36:14,233 - root - INFO - Export path is ./log
+2021-06-04 15:36:14,281 - root - INFO - Computation device: cuda
+2021-06-04 15:36:14,281 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:36:14,300 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:36:14,300 - root - INFO - Training optimizer: adam
+2021-06-04 15:36:14,300 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:36:14,300 - root - INFO - Training epochs: 100
+2021-06-04 15:36:14,300 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:36:14,301 - root - INFO - Training batch size: 6
+2021-06-04 15:36:14,301 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:36:15,626 - root - INFO - Starting training...
+2021-06-04 15:37:31,425 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:37:31
+2021-06-04 15:37:31,426 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:37:31,427 - root - INFO - Log file is ./log/210604_15:37:31
+2021-06-04 15:37:31,427 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:37:31,427 - root - INFO - Export path is ./log
+2021-06-04 15:37:31,479 - root - INFO - Computation device: cuda
+2021-06-04 15:37:31,479 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:37:31,499 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:37:31,499 - root - INFO - Training optimizer: adam
+2021-06-04 15:37:31,499 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:37:31,499 - root - INFO - Training epochs: 100
+2021-06-04 15:37:31,499 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:37:31,499 - root - INFO - Training batch size: 6
+2021-06-04 15:37:31,499 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:37:32,815 - root - INFO - Starting training...
+2021-06-04 15:42:41,867 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:42:41
+2021-06-04 15:42:41,868 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:42:41,868 - root - INFO - Log file is ./log/210604_15:42:41
+2021-06-04 15:42:41,869 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:42:41,869 - root - INFO - Export path is ./log
+2021-06-04 15:42:41,927 - root - INFO - Computation device: cuda
+2021-06-04 15:42:41,927 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:42:41,955 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:42:41,955 - root - INFO - Training optimizer: adam
+2021-06-04 15:42:41,956 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:42:41,956 - root - INFO - Training epochs: 100
+2021-06-04 15:42:41,956 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:42:41,956 - root - INFO - Training batch size: 6
+2021-06-04 15:42:41,956 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:42:43,293 - root - INFO - Starting training...
+2021-06-04 15:42:55,998 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:42:55
+2021-06-04 15:42:55,999 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:42:55,999 - root - INFO - Log file is ./log/210604_15:42:55
+2021-06-04 15:42:55,999 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:42:56,000 - root - INFO - Export path is ./log
+2021-06-04 15:42:56,042 - root - INFO - Computation device: cuda
+2021-06-04 15:42:56,042 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:42:56,071 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:42:56,071 - root - INFO - Training optimizer: adam
+2021-06-04 15:42:56,071 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:42:56,071 - root - INFO - Training epochs: 100
+2021-06-04 15:42:56,071 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:42:56,071 - root - INFO - Training batch size: 6
+2021-06-04 15:42:56,071 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:42:57,394 - root - INFO - Starting training...
+2021-06-04 15:44:06,698 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:44:06
+2021-06-04 15:44:06,700 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:44:06,700 - root - INFO - Log file is ./log/210604_15:44:06
+2021-06-04 15:44:06,700 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:44:06,700 - root - INFO - Export path is ./log
+2021-06-04 15:44:06,754 - root - INFO - Computation device: cuda
+2021-06-04 15:44:06,755 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:44:06,781 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:44:06,781 - root - INFO - Training optimizer: adam
+2021-06-04 15:44:06,782 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:44:06,782 - root - INFO - Training epochs: 100
+2021-06-04 15:44:06,782 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:44:06,782 - root - INFO - Training batch size: 6
+2021-06-04 15:44:06,782 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:44:08,117 - root - INFO - Starting training...
+2021-06-04 15:44:22,422 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:44:22
+2021-06-04 15:44:22,423 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:44:22,423 - root - INFO - Log file is ./log/210604_15:44:22
+2021-06-04 15:44:22,424 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:44:22,424 - root - INFO - Export path is ./log
+2021-06-04 15:44:22,476 - root - INFO - Computation device: cuda
+2021-06-04 15:44:22,477 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:44:22,505 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:44:22,505 - root - INFO - Training optimizer: adam
+2021-06-04 15:44:22,505 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:44:22,505 - root - INFO - Training epochs: 100
+2021-06-04 15:44:22,505 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:44:22,505 - root - INFO - Training batch size: 6
+2021-06-04 15:44:22,505 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:44:23,844 - root - INFO - Starting training...
+2021-06-04 15:44:56,906 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:44:56
+2021-06-04 15:44:56,908 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:44:56,908 - root - INFO - Log file is ./log/210604_15:44:56
+2021-06-04 15:44:56,908 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:44:56,908 - root - INFO - Export path is ./log
+2021-06-04 15:44:56,953 - root - INFO - Computation device: cuda
+2021-06-04 15:44:56,953 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:44:56,981 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:44:56,981 - root - INFO - Training optimizer: adam
+2021-06-04 15:44:56,981 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:44:56,981 - root - INFO - Training epochs: 100
+2021-06-04 15:44:56,981 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:44:56,981 - root - INFO - Training batch size: 6
+2021-06-04 15:44:56,981 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:44:58,318 - root - INFO - Starting training...
+2021-06-04 15:45:17,535 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:45:17
+2021-06-04 15:45:17,537 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:45:17,537 - root - INFO - Log file is ./log/210604_15:45:17
+2021-06-04 15:45:17,537 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:45:17,537 - root - INFO - Export path is ./log
+2021-06-04 15:45:17,595 - root - INFO - Computation device: cuda
+2021-06-04 15:45:17,595 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:45:17,623 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:45:17,623 - root - INFO - Training optimizer: adam
+2021-06-04 15:45:17,623 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:45:17,623 - root - INFO - Training epochs: 100
+2021-06-04 15:45:17,623 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:45:17,623 - root - INFO - Training batch size: 6
+2021-06-04 15:45:17,623 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:45:18,973 - root - INFO - Starting training...
+2021-06-04 15:45:49,846 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:45:49
+2021-06-04 15:45:49,848 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:45:49,848 - root - INFO - Log file is ./log/210604_15:45:49
+2021-06-04 15:45:49,848 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:45:49,848 - root - INFO - Export path is ./log
+2021-06-04 15:45:49,910 - root - INFO - Computation device: cuda
+2021-06-04 15:45:49,910 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:45:49,945 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:45:49,945 - root - INFO - Training optimizer: adam
+2021-06-04 15:45:49,945 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:45:49,945 - root - INFO - Training epochs: 100
+2021-06-04 15:45:49,945 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:45:49,945 - root - INFO - Training batch size: 6
+2021-06-04 15:45:49,945 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:45:51,296 - root - INFO - Starting training...
+2021-06-04 15:46:57,500 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:46:57
+2021-06-04 15:46:57,502 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:46:57,502 - root - INFO - Log file is ./log/210604_15:46:57
+2021-06-04 15:46:57,502 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:46:57,502 - root - INFO - Export path is ./log
+2021-06-04 15:46:57,554 - root - INFO - Computation device: cuda
+2021-06-04 15:46:57,554 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:46:57,584 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:46:57,584 - root - INFO - Training optimizer: adam
+2021-06-04 15:46:57,584 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:46:57,584 - root - INFO - Training epochs: 100
+2021-06-04 15:46:57,585 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:46:57,585 - root - INFO - Training batch size: 6
+2021-06-04 15:46:57,585 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:46:58,899 - root - INFO - Starting training...
+2021-06-04 15:48:45,153 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:48:45
+2021-06-04 15:48:45,154 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:48:45,155 - root - INFO - Log file is ./log/210604_15:48:45
+2021-06-04 15:48:45,155 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:48:45,155 - root - INFO - Export path is ./log
+2021-06-04 15:48:45,207 - root - INFO - Computation device: cuda
+2021-06-04 15:48:45,207 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:48:45,237 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:48:45,238 - root - INFO - Training optimizer: adam
+2021-06-04 15:48:45,238 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:48:45,238 - root - INFO - Training epochs: 100
+2021-06-04 15:48:45,238 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:48:45,238 - root - INFO - Training batch size: 6
+2021-06-04 15:48:45,238 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:48:46,584 - root - INFO - Starting training...
+2021-06-04 15:49:13,925 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:49:13
+2021-06-04 15:49:13,926 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:49:13,927 - root - INFO - Log file is ./log/210604_15:49:13
+2021-06-04 15:49:13,927 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:49:13,927 - root - INFO - Export path is ./log
+2021-06-04 15:49:13,970 - root - INFO - Computation device: cuda
+2021-06-04 15:49:13,970 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:49:14,000 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:49:14,000 - root - INFO - Training optimizer: adam
+2021-06-04 15:49:14,000 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:49:14,000 - root - INFO - Training epochs: 100
+2021-06-04 15:49:14,001 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:49:14,001 - root - INFO - Training batch size: 6
+2021-06-04 15:49:14,001 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:49:15,328 - root - INFO - Starting training...
+2021-06-04 15:51:35,030 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:51:35
+2021-06-04 15:51:35,031 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:51:35,031 - root - INFO - Log file is ./log/210604_15:51:35
+2021-06-04 15:51:35,032 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:51:35,032 - root - INFO - Export path is ./log
+2021-06-04 15:51:35,077 - root - INFO - Computation device: cuda
+2021-06-04 15:51:35,078 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:51:35,108 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:51:35,108 - root - INFO - Training optimizer: adam
+2021-06-04 15:51:35,108 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:51:35,108 - root - INFO - Training epochs: 100
+2021-06-04 15:51:35,108 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:51:35,108 - root - INFO - Training batch size: 6
+2021-06-04 15:51:35,108 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:51:36,453 - root - INFO - Starting training...
+2021-06-04 15:52:03,914 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:52:03
+2021-06-04 15:52:03,915 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:52:03,915 - root - INFO - Log file is ./log/210604_15:52:03
+2021-06-04 15:52:03,916 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:52:03,916 - root - INFO - Export path is ./log
+2021-06-04 15:52:03,967 - root - INFO - Computation device: cuda
+2021-06-04 15:52:03,967 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:52:03,998 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:52:03,998 - root - INFO - Training optimizer: adam
+2021-06-04 15:52:03,998 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:52:03,998 - root - INFO - Training epochs: 100
+2021-06-04 15:52:03,999 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:52:03,999 - root - INFO - Training batch size: 6
+2021-06-04 15:52:03,999 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:52:05,317 - root - INFO - Starting training...
+2021-06-04 15:52:32,898 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:52:32
+2021-06-04 15:52:32,900 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:52:32,900 - root - INFO - Log file is ./log/210604_15:52:32
+2021-06-04 15:52:32,900 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:52:32,900 - root - INFO - Export path is ./log
+2021-06-04 15:52:32,959 - root - INFO - Computation device: cuda
+2021-06-04 15:52:32,959 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:52:32,990 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:52:32,990 - root - INFO - Training optimizer: adam
+2021-06-04 15:52:32,990 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:52:32,990 - root - INFO - Training epochs: 100
+2021-06-04 15:52:32,990 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:52:32,990 - root - INFO - Training batch size: 6
+2021-06-04 15:52:32,990 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:52:34,322 - root - INFO - Starting training...
+2021-06-04 15:53:14,843 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:53:14
+2021-06-04 15:53:14,844 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:53:14,844 - root - INFO - Log file is ./log/210604_15:53:14
+2021-06-04 15:53:14,845 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:53:14,845 - root - INFO - Export path is ./log
+2021-06-04 15:53:14,900 - root - INFO - Computation device: cuda
+2021-06-04 15:53:14,900 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:53:14,931 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:53:14,931 - root - INFO - Training optimizer: adam
+2021-06-04 15:53:14,931 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:53:14,932 - root - INFO - Training epochs: 100
+2021-06-04 15:53:14,932 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:53:14,932 - root - INFO - Training batch size: 6
+2021-06-04 15:53:14,932 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:53:16,266 - root - INFO - Starting training...
+2021-06-04 15:53:39,433 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:53:39
+2021-06-04 15:53:39,434 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:53:39,434 - root - INFO - Log file is ./log/210604_15:53:39
+2021-06-04 15:53:39,434 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:53:39,435 - root - INFO - Export path is ./log
+2021-06-04 15:53:39,486 - root - INFO - Computation device: cuda
+2021-06-04 15:53:39,486 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:53:39,516 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:53:39,517 - root - INFO - Training optimizer: adam
+2021-06-04 15:53:39,517 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:53:39,517 - root - INFO - Training epochs: 100
+2021-06-04 15:53:39,517 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:53:39,517 - root - INFO - Training batch size: 6
+2021-06-04 15:53:39,517 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:53:40,856 - root - INFO - Starting training...
+2021-06-04 15:53:59,225 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:53:59
+2021-06-04 15:53:59,226 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:53:59,226 - root - INFO - Log file is ./log/210604_15:53:59
+2021-06-04 15:53:59,227 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:53:59,227 - root - INFO - Export path is ./log
+2021-06-04 15:53:59,272 - root - INFO - Computation device: cuda
+2021-06-04 15:53:59,273 - root - INFO - Number of dataloader workers: 0
+2021-06-04 15:53:59,303 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 15:53:59,303 - root - INFO - Training optimizer: adam
+2021-06-04 15:53:59,303 - root - INFO - Training learning rate: 0.001
+2021-06-04 15:53:59,304 - root - INFO - Training epochs: 100
+2021-06-04 15:53:59,304 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 15:53:59,304 - root - INFO - Training batch size: 6
+2021-06-04 15:53:59,304 - root - INFO - Training weight decay: 1e-06
+2021-06-04 15:54:00,644 - root - INFO - Starting training...
+2021-06-04 15:57:12,730 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_15:57:12
+2021-06-04 15:57:12,732 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 15:57:12,732 - root - INFO - Log file is ./log/210604_15:57:12
+2021-06-04 15:57:12,732 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 15:57:12,732 - root - INFO - Export path is ./log
+2021-06-04 15:57:12,775 - root - INFO - Computation device: cuda
+2021-06-04 15:57:12,775 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:00:09,814 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:00:09
+2021-06-04 16:00:09,816 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:00:09,816 - root - INFO - Log file is ./log/210604_16:00:09
+2021-06-04 16:00:09,816 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:00:09,816 - root - INFO - Export path is ./log
+2021-06-04 16:00:09,876 - root - INFO - Computation device: cuda
+2021-06-04 16:00:09,877 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:00:09,908 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:00:09,908 - root - INFO - Training optimizer: adam
+2021-06-04 16:00:09,908 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:00:09,908 - root - INFO - Training epochs: 100
+2021-06-04 16:00:09,909 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:00:09,909 - root - INFO - Training batch size: 6
+2021-06-04 16:00:09,909 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:00:11,241 - root - INFO - Starting training...
+2021-06-04 16:00:31,652 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:00:31
+2021-06-04 16:00:31,653 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:00:31,653 - root - INFO - Log file is ./log/210604_16:00:31
+2021-06-04 16:00:31,653 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:00:31,654 - root - INFO - Export path is ./log
+2021-06-04 16:00:31,700 - root - INFO - Computation device: cuda
+2021-06-04 16:00:31,701 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:00:31,731 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:00:31,731 - root - INFO - Training optimizer: adam
+2021-06-04 16:00:31,731 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:00:31,732 - root - INFO - Training epochs: 100
+2021-06-04 16:00:31,732 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:00:31,732 - root - INFO - Training batch size: 6
+2021-06-04 16:00:31,732 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:00:33,071 - root - INFO - Starting training...
+2021-06-04 16:03:45,613 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:03:45
+2021-06-04 16:03:45,615 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:03:45,615 - root - INFO - Log file is ./log/210604_16:03:45
+2021-06-04 16:03:45,615 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:03:45,615 - root - INFO - Export path is ./log
+2021-06-04 16:03:45,671 - root - INFO - Computation device: cuda
+2021-06-04 16:03:45,671 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:03:45,707 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:03:45,707 - root - INFO - Training optimizer: adam
+2021-06-04 16:03:45,707 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:03:45,707 - root - INFO - Training epochs: 100
+2021-06-04 16:03:45,707 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:03:45,708 - root - INFO - Training batch size: 6
+2021-06-04 16:03:45,708 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:03:47,054 - root - INFO - Starting training...
+2021-06-04 16:04:09,756 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:04:09
+2021-06-04 16:04:09,758 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:04:09,758 - root - INFO - Log file is ./log/210604_16:04:09
+2021-06-04 16:04:09,758 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:04:09,758 - root - INFO - Export path is ./log
+2021-06-04 16:04:09,819 - root - INFO - Computation device: cuda
+2021-06-04 16:04:09,820 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:04:09,851 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:04:09,852 - root - INFO - Training optimizer: adam
+2021-06-04 16:04:09,852 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:04:09,852 - root - INFO - Training epochs: 100
+2021-06-04 16:04:09,852 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:04:09,852 - root - INFO - Training batch size: 6
+2021-06-04 16:04:09,852 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:04:11,179 - root - INFO - Starting training...
+2021-06-04 16:04:13,701 - root - INFO - Training Time: 2.522s
+2021-06-04 16:04:13,701 - root - INFO - Finished training.
+2021-06-04 16:05:31,530 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:05:31
+2021-06-04 16:05:31,531 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:05:31,531 - root - INFO - Log file is ./log/210604_16:05:31
+2021-06-04 16:05:31,531 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:05:31,531 - root - INFO - Export path is ./log
+2021-06-04 16:05:31,586 - root - INFO - Computation device: cuda
+2021-06-04 16:05:31,586 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:05:31,618 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:05:31,618 - root - INFO - Training optimizer: adam
+2021-06-04 16:05:31,618 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:05:31,618 - root - INFO - Training epochs: 100
+2021-06-04 16:05:31,618 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:05:31,618 - root - INFO - Training batch size: 6
+2021-06-04 16:05:31,618 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:05:32,968 - root - INFO - Starting training...
+2021-06-04 16:06:03,756 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:06:03
+2021-06-04 16:06:03,758 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:06:03,758 - root - INFO - Log file is ./log/210604_16:06:03
+2021-06-04 16:06:03,758 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:06:03,758 - root - INFO - Export path is ./log
+2021-06-04 16:06:03,816 - root - INFO - Computation device: cuda
+2021-06-04 16:06:03,816 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:06:03,847 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:06:03,847 - root - INFO - Training optimizer: adam
+2021-06-04 16:06:03,847 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:06:03,848 - root - INFO - Training epochs: 100
+2021-06-04 16:06:03,848 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:06:03,848 - root - INFO - Training batch size: 6
+2021-06-04 16:06:03,848 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:06:05,174 - root - INFO - Starting training...
+2021-06-04 16:06:51,649 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:06:51
+2021-06-04 16:06:51,651 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:06:51,651 - root - INFO - Log file is ./log/210604_16:06:51
+2021-06-04 16:06:51,651 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:06:51,651 - root - INFO - Export path is ./log
+2021-06-04 16:06:51,694 - root - INFO - Computation device: cuda
+2021-06-04 16:06:51,694 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:06:51,726 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:06:51,726 - root - INFO - Training optimizer: adam
+2021-06-04 16:06:51,726 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:06:51,726 - root - INFO - Training epochs: 100
+2021-06-04 16:06:51,726 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:06:51,727 - root - INFO - Training batch size: 6
+2021-06-04 16:06:51,727 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:06:53,055 - root - INFO - Starting training...
+2021-06-04 16:11:01,971 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:11:01
+2021-06-04 16:11:01,972 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:11:01,972 - root - INFO - Log file is ./log/210604_16:11:01
+2021-06-04 16:11:01,972 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:11:01,973 - root - INFO - Export path is ./log
+2021-06-04 16:11:02,031 - root - INFO - Computation device: cuda
+2021-06-04 16:11:02,031 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:11:02,062 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:11:02,062 - root - INFO - Training optimizer: adam
+2021-06-04 16:11:02,062 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:11:02,062 - root - INFO - Training epochs: 100
+2021-06-04 16:11:02,062 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:11:02,063 - root - INFO - Training batch size: 6
+2021-06-04 16:11:02,063 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:11:03,418 - root - INFO - Starting training...
+2021-06-04 16:11:19,585 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:11:19
+2021-06-04 16:11:19,586 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:11:19,587 - root - INFO - Log file is ./log/210604_16:11:19
+2021-06-04 16:11:19,587 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:11:19,587 - root - INFO - Export path is ./log
+2021-06-04 16:11:19,640 - root - INFO - Computation device: cuda
+2021-06-04 16:11:19,640 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:11:19,670 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:11:19,670 - root - INFO - Training optimizer: adam
+2021-06-04 16:11:19,671 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:11:19,671 - root - INFO - Training epochs: 100
+2021-06-04 16:11:19,671 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:11:19,671 - root - INFO - Training batch size: 6
+2021-06-04 16:11:19,671 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:11:20,991 - root - INFO - Starting training...
+2021-06-04 16:11:32,010 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:11:32
+2021-06-04 16:11:32,012 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:11:32,012 - root - INFO - Log file is ./log/210604_16:11:32
+2021-06-04 16:11:32,012 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:11:32,012 - root - INFO - Export path is ./log
+2021-06-04 16:11:32,059 - root - INFO - Computation device: cuda
+2021-06-04 16:11:32,059 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:11:32,090 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:11:32,090 - root - INFO - Training optimizer: adam
+2021-06-04 16:11:32,090 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:11:32,091 - root - INFO - Training epochs: 100
+2021-06-04 16:11:32,091 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:11:32,091 - root - INFO - Training batch size: 6
+2021-06-04 16:11:32,091 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:11:33,481 - root - INFO - Starting training...
+2021-06-04 16:11:36,872 - root - INFO - Training Time: 3.390s
+2021-06-04 16:11:36,872 - root - INFO - Finished training.
+2021-06-04 16:12:43,482 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:12:43
+2021-06-04 16:12:43,483 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:12:43,483 - root - INFO - Log file is ./log/210604_16:12:43
+2021-06-04 16:12:43,484 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:12:43,484 - root - INFO - Export path is ./log
+2021-06-04 16:12:43,544 - root - INFO - Computation device: cuda
+2021-06-04 16:12:43,544 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:12:43,576 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:12:43,576 - root - INFO - Training optimizer: adam
+2021-06-04 16:12:43,576 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:12:43,576 - root - INFO - Training epochs: 100
+2021-06-04 16:12:43,576 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:12:43,576 - root - INFO - Training batch size: 6
+2021-06-04 16:12:43,576 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:12:44,930 - root - INFO - Starting training...
+2021-06-04 16:15:46,437 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:15:46
+2021-06-04 16:15:46,439 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:15:46,439 - root - INFO - Log file is ./log/210604_16:15:46
+2021-06-04 16:15:46,439 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:15:46,439 - root - INFO - Export path is ./log
+2021-06-04 16:15:46,484 - root - INFO - Computation device: cuda
+2021-06-04 16:15:46,484 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:15:46,515 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:15:46,516 - root - INFO - Training optimizer: adam
+2021-06-04 16:15:46,516 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:15:46,516 - root - INFO - Training epochs: 100
+2021-06-04 16:15:46,516 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:15:46,516 - root - INFO - Training batch size: 6
+2021-06-04 16:15:46,516 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:15:47,939 - root - INFO - Starting training...
+2021-06-04 16:16:47,067 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:16:47
+2021-06-04 16:16:47,069 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:16:47,069 - root - INFO - Log file is ./log/210604_16:16:47
+2021-06-04 16:16:47,069 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:16:47,069 - root - INFO - Export path is ./log
+2021-06-04 16:16:47,115 - root - INFO - Computation device: cuda
+2021-06-04 16:16:47,115 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:16:47,150 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:16:47,150 - root - INFO - Training optimizer: adam
+2021-06-04 16:16:47,150 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:16:47,150 - root - INFO - Training epochs: 100
+2021-06-04 16:16:47,150 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:16:47,150 - root - INFO - Training batch size: 6
+2021-06-04 16:16:47,150 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:16:48,604 - root - INFO - Starting training...
+2021-06-04 16:35:00,669 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:35:00
+2021-06-04 16:35:00,670 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:35:00,671 - root - INFO - Log file is ./log/210604_16:35:00
+2021-06-04 16:35:00,671 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:35:00,671 - root - INFO - Export path is ./log
+2021-06-04 16:35:00,719 - root - INFO - Computation device: cuda
+2021-06-04 16:35:00,720 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:35:00,751 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:35:00,751 - root - INFO - Training optimizer: adam
+2021-06-04 16:35:00,751 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:35:00,752 - root - INFO - Training epochs: 100
+2021-06-04 16:35:00,752 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:35:00,752 - root - INFO - Training batch size: 6
+2021-06-04 16:35:00,752 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:35:02,283 - root - INFO - Starting training...
+2021-06-04 16:36:37,008 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:36:37
+2021-06-04 16:36:37,009 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:36:37,009 - root - INFO - Log file is ./log/210604_16:36:37
+2021-06-04 16:36:37,009 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:36:37,009 - root - INFO - Export path is ./log
+2021-06-04 16:36:37,057 - root - INFO - Computation device: cuda
+2021-06-04 16:36:37,057 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:37:46,170 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:37:46
+2021-06-04 16:37:46,172 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:37:46,172 - root - INFO - Log file is ./log/210604_16:37:46
+2021-06-04 16:37:46,172 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:37:46,172 - root - INFO - Export path is ./log
+2021-06-04 16:37:46,220 - root - INFO - Computation device: cuda
+2021-06-04 16:37:46,220 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:37:46,252 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:37:46,252 - root - INFO - Training optimizer: adam
+2021-06-04 16:37:46,252 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:37:46,253 - root - INFO - Training epochs: 100
+2021-06-04 16:37:46,253 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:37:46,253 - root - INFO - Training batch size: 6
+2021-06-04 16:37:46,253 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:37:47,685 - root - INFO - Starting training...
+2021-06-04 16:38:26,749 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:38:26
+2021-06-04 16:38:26,751 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:38:26,751 - root - INFO - Log file is ./log/210604_16:38:26
+2021-06-04 16:38:26,751 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:38:26,751 - root - INFO - Export path is ./log
+2021-06-04 16:38:26,803 - root - INFO - Computation device: cuda
+2021-06-04 16:38:26,803 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:38:26,835 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:38:26,835 - root - INFO - Training optimizer: adam
+2021-06-04 16:38:26,835 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:38:26,836 - root - INFO - Training epochs: 100
+2021-06-04 16:38:26,836 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:38:26,836 - root - INFO - Training batch size: 6
+2021-06-04 16:38:26,836 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:38:28,215 - root - INFO - Starting training...
+2021-06-04 16:42:30,555 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:42:30
+2021-06-04 16:42:30,557 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:42:30,557 - root - INFO - Log file is ./log/210604_16:42:30
+2021-06-04 16:42:30,557 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:42:30,557 - root - INFO - Export path is ./log
+2021-06-04 16:42:30,614 - root - INFO - Computation device: cuda
+2021-06-04 16:42:30,615 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:42:30,645 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:42:30,645 - root - INFO - Training optimizer: adam
+2021-06-04 16:42:30,645 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:42:30,645 - root - INFO - Training epochs: 100
+2021-06-04 16:42:30,645 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:42:30,645 - root - INFO - Training batch size: 6
+2021-06-04 16:42:30,646 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:42:32,004 - root - INFO - Starting training...
+2021-06-04 16:43:27,493 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:43:27
+2021-06-04 16:43:27,495 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:43:27,495 - root - INFO - Log file is ./log/210604_16:43:27
+2021-06-04 16:43:27,495 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:43:27,495 - root - INFO - Export path is ./log
+2021-06-04 16:43:27,554 - root - INFO - Computation device: cuda
+2021-06-04 16:43:27,554 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:43:27,585 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:43:27,585 - root - INFO - Training optimizer: adam
+2021-06-04 16:43:27,585 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:43:27,585 - root - INFO - Training epochs: 100
+2021-06-04 16:43:27,585 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:43:27,586 - root - INFO - Training batch size: 6
+2021-06-04 16:43:27,586 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:43:28,944 - root - INFO - Starting training...
+2021-06-04 16:43:52,692 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:43:52
+2021-06-04 16:43:52,693 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:43:52,693 - root - INFO - Log file is ./log/210604_16:43:52
+2021-06-04 16:43:52,693 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:43:52,694 - root - INFO - Export path is ./log
+2021-06-04 16:43:52,749 - root - INFO - Computation device: cuda
+2021-06-04 16:43:52,749 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:43:52,779 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:43:52,780 - root - INFO - Training optimizer: adam
+2021-06-04 16:43:52,780 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:43:52,780 - root - INFO - Training epochs: 100
+2021-06-04 16:43:52,780 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:43:52,780 - root - INFO - Training batch size: 6
+2021-06-04 16:43:52,780 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:43:54,117 - root - INFO - Starting training...
+2021-06-04 16:44:39,446 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:44:39
+2021-06-04 16:44:39,447 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:44:39,447 - root - INFO - Log file is ./log/210604_16:44:39
+2021-06-04 16:44:39,447 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:44:39,448 - root - INFO - Export path is ./log
+2021-06-04 16:44:39,493 - root - INFO - Computation device: cuda
+2021-06-04 16:44:39,493 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:44:39,524 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:44:39,524 - root - INFO - Training optimizer: adam
+2021-06-04 16:44:39,524 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:44:39,524 - root - INFO - Training epochs: 100
+2021-06-04 16:44:39,525 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:44:39,525 - root - INFO - Training batch size: 6
+2021-06-04 16:44:39,525 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:44:40,907 - root - INFO - Starting training...
+2021-06-04 16:44:44,957 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:44:44
+2021-06-04 16:44:44,959 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:44:44,959 - root - INFO - Log file is ./log/210604_16:44:44
+2021-06-04 16:44:44,959 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:44:44,959 - root - INFO - Export path is ./log
+2021-06-04 16:44:45,002 - root - INFO - Computation device: cuda
+2021-06-04 16:44:45,003 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:44:45,033 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:44:45,034 - root - INFO - Training optimizer: adam
+2021-06-04 16:44:45,034 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:44:45,034 - root - INFO - Training epochs: 100
+2021-06-04 16:44:45,034 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:44:45,034 - root - INFO - Training batch size: 6
+2021-06-04 16:44:45,034 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:44:46,387 - root - INFO - Starting training...
+2021-06-04 16:50:01,264 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:50:01
+2021-06-04 16:50:01,265 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:50:01,266 - root - INFO - Log file is ./log/210604_16:50:01
+2021-06-04 16:50:01,266 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:50:01,266 - root - INFO - Export path is ./log
+2021-06-04 16:50:01,327 - root - INFO - Computation device: cuda
+2021-06-04 16:50:01,327 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:50:01,358 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:50:01,358 - root - INFO - Training optimizer: adam
+2021-06-04 16:50:01,358 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:50:01,358 - root - INFO - Training epochs: 100
+2021-06-04 16:50:01,359 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:50:01,359 - root - INFO - Training batch size: 6
+2021-06-04 16:50:01,359 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:50:02,715 - root - INFO - Starting training...
+2021-06-04 16:50:18,245 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:50:18
+2021-06-04 16:50:18,246 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:50:18,247 - root - INFO - Log file is ./log/210604_16:50:18
+2021-06-04 16:50:18,247 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:50:18,247 - root - INFO - Export path is ./log
+2021-06-04 16:50:18,292 - root - INFO - Computation device: cuda
+2021-06-04 16:50:18,292 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:50:18,324 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:50:18,324 - root - INFO - Training optimizer: adam
+2021-06-04 16:50:18,324 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:50:18,324 - root - INFO - Training epochs: 100
+2021-06-04 16:50:18,324 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:50:18,324 - root - INFO - Training batch size: 6
+2021-06-04 16:50:18,324 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:50:19,690 - root - INFO - Starting training...
+2021-06-04 16:50:44,222 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:50:44
+2021-06-04 16:50:44,223 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:50:44,224 - root - INFO - Log file is ./log/210604_16:50:44
+2021-06-04 16:50:44,224 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:50:44,224 - root - INFO - Export path is ./log
+2021-06-04 16:50:44,279 - root - INFO - Computation device: cuda
+2021-06-04 16:50:44,279 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:50:44,310 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:50:44,310 - root - INFO - Training optimizer: adam
+2021-06-04 16:50:44,310 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:50:44,310 - root - INFO - Training epochs: 100
+2021-06-04 16:50:44,310 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:50:44,310 - root - INFO - Training batch size: 6
+2021-06-04 16:50:44,310 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:50:45,670 - root - INFO - Starting training...
+2021-06-04 16:51:30,424 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:51:30
+2021-06-04 16:51:30,425 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:51:30,426 - root - INFO - Log file is ./log/210604_16:51:30
+2021-06-04 16:51:30,426 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:51:30,426 - root - INFO - Export path is ./log
+2021-06-04 16:51:30,486 - root - INFO - Computation device: cuda
+2021-06-04 16:51:30,486 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:51:30,518 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:51:30,518 - root - INFO - Training optimizer: adam
+2021-06-04 16:51:30,518 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:51:30,519 - root - INFO - Training epochs: 100
+2021-06-04 16:51:30,519 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:51:30,519 - root - INFO - Training batch size: 6
+2021-06-04 16:51:30,519 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:51:31,864 - root - INFO - Starting training...
+2021-06-04 16:51:44,531 - root - INFO - NO Dir for learning monitoring - It is generated in ./log/210604_16:51:44
+2021-06-04 16:51:44,533 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 16:51:44,533 - root - INFO - Log file is ./log/210604_16:51:44
+2021-06-04 16:51:44,533 - root - INFO - Data path is ./tmp_train_samples.h5
+2021-06-04 16:51:44,533 - root - INFO - Export path is ./log
+2021-06-04 16:51:44,578 - root - INFO - Computation device: cuda
+2021-06-04 16:51:44,579 - root - INFO - Number of dataloader workers: 0
+2021-06-04 16:51:44,610 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 16:51:44,611 - root - INFO - Training optimizer: adam
+2021-06-04 16:51:44,611 - root - INFO - Training learning rate: 0.001
+2021-06-04 16:51:44,611 - root - INFO - Training epochs: 100
+2021-06-04 16:51:44,611 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 16:51:44,611 - root - INFO - Training batch size: 6
+2021-06-04 16:51:44,611 - root - INFO - Training weight decay: 1e-06
+2021-06-04 16:51:46,115 - root - INFO - Starting training...
+2021-06-04 16:51:49,318 - root - INFO - Training Time: 3.203s
+2021-06-04 16:51:49,318 - root - INFO - Finished training.
+2021-06-04 17:15:58,984 - root - INFO - NO Dir for learning monitoring - It is generated in log/210604_17_15_58
+2021-06-04 17:15:58,987 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 17:15:58,987 - root - INFO - Log file is log/210604_17_15_58
+2021-06-04 17:15:58,987 - root - INFO - Data path is tmp_train_samples.h5
+2021-06-04 17:15:58,987 - root - INFO - Export path is log
+2021-06-04 17:15:58,987 - root - INFO - Computation device: cpu
+2021-06-04 17:15:58,987 - root - INFO - Number of dataloader workers: 0
+2021-06-04 17:15:59,023 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 17:15:59,023 - root - INFO - Training optimizer: adam
+2021-06-04 17:15:59,023 - root - INFO - Training learning rate: 0.001
+2021-06-04 17:15:59,023 - root - INFO - Training epochs: 100
+2021-06-04 17:15:59,023 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 17:15:59,023 - root - INFO - Training batch size: 6
+2021-06-04 17:15:59,023 - root - INFO - Training weight decay: 1e-06
+2021-06-04 17:15:59,024 - root - INFO - Starting training...
+2021-06-04 17:16:56,520 - root - INFO - NO Dir for learning monitoring - It is generated in log/210604_17_16_56
+2021-06-04 17:16:56,521 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 17:16:56,521 - root - INFO - Log file is log/210604_17_16_56
+2021-06-04 17:16:56,521 - root - INFO - Data path is tmp_train_samples.h5
+2021-06-04 17:16:56,522 - root - INFO - Export path is log
+2021-06-04 17:16:56,522 - root - INFO - Computation device: cpu
+2021-06-04 17:16:56,522 - root - INFO - Number of dataloader workers: 0
+2021-06-04 17:16:56,558 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 17:16:56,558 - root - INFO - Training optimizer: adam
+2021-06-04 17:16:56,558 - root - INFO - Training learning rate: 0.001
+2021-06-04 17:16:56,558 - root - INFO - Training epochs: 100
+2021-06-04 17:16:56,558 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 17:16:56,558 - root - INFO - Training batch size: 6
+2021-06-04 17:16:56,558 - root - INFO - Training weight decay: 1e-06
+2021-06-04 17:16:56,559 - root - INFO - Starting training...
+2021-06-04 17:17:47,093 - root - INFO - Training Time: 50.533s
+2021-06-04 17:17:47,093 - root - INFO - Finished training.
+2021-06-04 17:18:25,332 - root - INFO - NO Dir for learning monitoring - It is generated in log/210604_17_18_25
+2021-06-04 17:18:25,333 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 17:18:25,334 - root - INFO - Log file is log/210604_17_18_25
+2021-06-04 17:18:25,334 - root - INFO - Data path is tmp_train_samples.h5
+2021-06-04 17:18:25,334 - root - INFO - Export path is log
+2021-06-04 17:18:25,334 - root - INFO - Computation device: cpu
+2021-06-04 17:18:25,334 - root - INFO - Number of dataloader workers: 0
+2021-06-04 17:18:25,365 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 17:18:25,365 - root - INFO - Training optimizer: adam
+2021-06-04 17:18:25,365 - root - INFO - Training learning rate: 0.001
+2021-06-04 17:18:25,365 - root - INFO - Training epochs: 100
+2021-06-04 17:18:25,365 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 17:18:25,365 - root - INFO - Training batch size: 6
+2021-06-04 17:18:25,365 - root - INFO - Training weight decay: 1e-06
+2021-06-04 17:18:25,366 - root - INFO - Starting training...
+2021-06-04 17:19:15,427 - root - INFO - Training Time: 50.061s
+2021-06-04 17:19:15,427 - root - INFO - Finished training.
+2021-06-04 17:22:19,729 - root - INFO - NO Dir for learning monitoring - It is generated in log/210604_17_22_19
+2021-06-04 17:22:19,731 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-06-04 17:22:19,731 - root - INFO - Log file is log/210604_17_22_19
+2021-06-04 17:22:19,731 - root - INFO - Data path is tmp_train_samples.h5
+2021-06-04 17:22:19,731 - root - INFO - Export path is log
+2021-06-04 17:22:19,731 - root - INFO - Computation device: cpu
+2021-06-04 17:22:19,731 - root - INFO - Number of dataloader workers: 0
+2021-06-04 17:22:19,762 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-06-04 17:22:19,762 - root - INFO - Training optimizer: adam
+2021-06-04 17:22:19,762 - root - INFO - Training learning rate: 0.001
+2021-06-04 17:22:19,762 - root - INFO - Training epochs: 100
+2021-06-04 17:22:19,762 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-06-04 17:22:19,762 - root - INFO - Training batch size: 6
+2021-06-04 17:22:19,763 - root - INFO - Training weight decay: 1e-06
+2021-06-04 17:22:19,763 - root - INFO - Starting training...
+2021-06-04 17:23:07,160 - root - INFO - Training Time: 47.397s
+2021-06-04 17:23:07,160 - root - INFO - Finished training.
